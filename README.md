@@ -22,12 +22,18 @@ Where does the data come from, how to maintain the feeds, how to ensure the inte
 
 ###Data Structure
 
-How do we store and structure the data after consumption.
+How do we store and structure the data after consumption.  
+
+####Notes:
+Start with two units of analysis.  People and commodities.
 
 
 ###Tools for Exploration and Analysis
 
-UI to discover relevant information and to make the data useful
+UI to discover relevant information and to make the data useful.
+
+####Notes: 
+Start with basic tools for grouping and comparing people and commodities based on attributes, then provide standard charting and graphing to visualize results.  
 
 
 ###Tools for Saving and Sharing
@@ -42,5 +48,4 @@ The software should integrate community.  This includes those who help to popula
 
 ##Development Approach
 Start with small, simple components and iterate toward complexity.  Focus on clean interfaces and the glue between the various components.
-
 
