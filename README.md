@@ -5,7 +5,7 @@ Social Equality Information Application
 ##Project Mission
 Rough Draft:
 
-Through online community, software development, knowledge curation, and information design, make relevant information about the inequalities in our socio-economic-political system, and the constructs that reinforce those inequalities, discoverable and irrefutable to support action toward increasing social equality.
+Through online community, software development, knowledge curation, and information design, make relevant information about the inequalities in our global socio-economic-political system, and the constructs that reinforce those inequalities, discoverable and irrefutable to support action toward increasing social equality.
 
 ##Description
 
