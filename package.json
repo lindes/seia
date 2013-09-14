@@ -1,6 +1,6 @@
 {
-	"name" : "SIIA",
-	"description" : "Social Inquality Information Application",
+	"name" : "seia",
+	"description" : "Social Equality Information Application",
 	"version" : "0.0.1",
 	"private" : "true",
 	"dependencies" : {
